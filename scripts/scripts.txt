@@ -1,0 +1,27 @@
+3_idotes.sh
+=40]]
+Rancho
+backup.sh
+break_loop.sh
+case_choice.sh
+check_file_exist.sh
+check_user_exit.sh
+create_user.sh
+create_user_args.sh
+dice_no.sh
+farhan_nitrate.txt
+file3
+file4
+for_with_array.sh
+for_with_file.sh
+function.sh
+function_create_user.sh
+hello_chatur.sh
+if_else.sh
+install_application.sh
+logical_operators.sh
+names.txt
+scripts.txt
+ternary_operator.sh
+testfile.sh
+Sat Sep 13 11:36:50 UTC 2025
